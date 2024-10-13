@@ -1,0 +1,301 @@
+body{
+
+    background-image: linear-gradient(rgb(0, 42, 105), rgb(255, 154, 2), rgb(255, 255, 255), rgb(0, 255, 157), rgba(255, 0, 21, 0.877), hsl(261, 94%, 38%), rgb(0, 42, 105));
+
+
+}
+
+.a {
+
+
+    padding-left: 10%;
+}
+
+.color{
+
+    display: flex;
+    background-color: aliceblue;
+    padding-left: 15%;
+
+border-radius: 50px;
+}
+.i:hover,.b:hover , .x:hover{
+   
+    -webkit-transform:scale(1);transform:scale(1.1);
+    transition: 2s;
+  
+}
+.info{
+
+    display: flex;
+
+    margin-left: 20px;
+}
+.Y{
+    margin-left: 80px;
+}
+
+.i{
+
+    display: flex;
+    background-color: aqua;
+    margin-left: 15%;
+    margin-right: 60%;
+    border-radius: 50px;
+
+}
+
+.texto {
+
+display: flex;
+background-color: aliceblue;
+border-radius: 50px;
+margin-top: -80%;
+margin-left: 10px;
+margin-right: 10px;
+height: 150px;
+
+}
+.cuadro {
+    
+    
+
+    padding-top: 20%;
+
+    margin-left: 0%;
+
+    margin-right: 40%;
+
+    background-color: rgb(0, 50, 70);
+
+    border-radius: 50px;
+
+}
+.cuadro1 {
+    
+    
+
+    padding-top: 20%;
+
+    margin-left: 0%;
+
+    margin-right: 40%;
+
+    background-color:rgb(0, 42, 105) ;
+
+    border-radius: 50px;
+
+}
+
+.foto1{
+    
+padding-top:-3%;
+margin-left: 100%;
+margin-right: 0%;
+margin-top: -30%;
+}
+.texto2{
+
+    display: flex;
+    background-color: aliceblue;
+    border-radius: 50px;
+    margin-top: -25%;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 150px;
+}
+.B{
+
+    margin-left: 80px;
+
+}
+.b{
+
+    display: flex;
+    background-color: aqua;
+    margin-left: 5%;
+    margin-right: 45%;
+    border-radius: 50px;
+
+}
+
+.X{
+    margin-left: 150px;
+}
+.x{
+   
+    display: flex;
+    background-color: aqua;
+    margin-left: 10%;
+    margin-right: 50%;
+    border-radius: 50px;
+}
+
+.G{
+    margin-left: 150px;
+}
+.g{
+
+    display: flex;
+    Background-color: transparent;
+     margin-left: 10%;
+    margin-right: 50%;
+    border-radius: 50px;
+}
+
+.texto1 {
+
+    display: flex;
+    background-color: aliceblue;
+    border-radius: 50px;
+    margin-top: -25%;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 150px;
+    
+    }
+
+.BOTON{
+
+    height: 100px;
+    width: 200px;
+    padding-left: 10%;
+    padding-right: 20%;
+border-radius: 50px;
+}
+.button{
+
+padding-right: 20%;
+padding-left: 20%;
+
+}
+.button1{
+    
+    margin-left: 85%;
+    margin-top: -5%;
+
+}
+.BOTON1{
+
+    height: 100px;
+    width: 200px;
+    padding-left: 10%;
+    padding-right: 20%;
+border-radius: 50px;
+}
+.button2{
+    
+    margin-left: 85%;
+    margin-top: -5%;
+
+}
+.BOTON2{
+
+    height: 100px;
+    width: 200px;
+    padding-left: 10%;
+    padding-right: 20%;
+
+}
+
+.BOTON:hover{
+    background-image: linear-gradient(rgb(0, 42, 105) , hsl(0, 0%, 100%));}
+.BOTON1:hover{
+    background-image: linear-gradient(rgb(0, 42, 105) , hsl(0, 0%, 100%));}
+.BOTON2:hover{
+    background-image: linear-gradient(rgb(0, 42, 105) , hsl(0, 0%, 100%));
+}
+
+.ejemplo{
+
+    Background-color: transparent;
+margin-right: 80%;
+border-radius: 50px;
+}
+.ejm{
+
+    margin-left: 50px;
+}
+.cuadroG{
+
+
+padding-top: 20%;
+
+margin-left: 5%;
+
+margin-right: 5%;
+
+background-color: rgb(0, 50, 70);
+
+border-radius: 50px;
+
+}
+.texto3{
+
+    display: flex;
+    background-color: aliceblue;
+    border-radius: 50px;
+    margin-top: -20%;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 150px;
+
+}
+
+.texto4{
+
+    display: flex;
+    background-color: aliceblue;
+    border-radius: 50px;
+    margin-top: -20%;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 200px;
+
+}
+
+.texto5{
+
+    display: flex;
+    background-color: aliceblue;
+    border-radius: 50px;
+    margin-top: -20%;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 240px;
+
+}
+.texto6{
+
+    display: flex;
+    background-color: aliceblue;
+    border-radius: 50px;
+    margin-top: -20%;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 215px;
+
+}
+.texto7{
+
+    display: flex;
+    background-color: aliceblue;
+    border-radius: 50px;
+    margin-top: -20%;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 160px;
+
+}
+
+.texto9 {
+
+    display: flex;
+    background-color: aliceblue;
+    border-radius: 50px;
+    margin-top: -60%;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 150px;
+    
+}
